@@ -8,3 +8,4 @@ int main(int argc, char* argv[]) {
     printf("git tag -a v1.2");
     return 0;
 }
+ ....
